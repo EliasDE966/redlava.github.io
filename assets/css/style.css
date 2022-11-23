@@ -443,6 +443,12 @@ h6 {
     background-size: cover;
     position: relative;
   }
+    #hero h2 {
+    color: #eee;
+    margin-bottom: 30px;
+    font-size: 24px;
+    padding-bottom: 150px;
+  }
 }
 
 #hero:before {

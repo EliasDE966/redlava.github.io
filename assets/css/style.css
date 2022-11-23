@@ -1570,3 +1570,6 @@ section .services{
 #header.fixed-top{
   background-color: #000;
 }
+#header{
+  background-color: #000;
+}

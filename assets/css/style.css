@@ -1561,3 +1561,9 @@ section .services{
   width: 100%;
   height:975px;
 }
+.navbar ul{
+  background-color: #000;
+}
+.navbar-mobile a{
+  color: #fff;
+}
